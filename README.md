@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Diego Baltazar de Souza</h1>
 <h3 align="center">An aspiring DEV👨‍💻 from Brazil</h3>
-<img align="right" alt="Coding" width="400" src="https://media.giphy.com/media/2IudUHdI075HL02Pkk/giphy.gif")
-
+<!-- <img align="right" alt="Coding" width="400" src="https://media.giphy.com/media/2IudUHdI075HL02Pkk/giphy.gif")
+ -->
 - 📖 I’m currently learning **React Native**
 - 📫 How to reach me **souzadiegocl@gmail.com**
 
