@@ -1,11 +1,13 @@
 <h1 align="center">Hi 👋, I'm Diego Baltazar de Souza</h1>
 
 <h3 align="center">DEV👨‍💻 from Brazil </h3>
-  <img align="right"  src="https://github-readme-stats.vercel.app/api?username=souzadiegocl&show_icons=true&locale=en" alt="souzadiegocl" />
- 
+<p align="center">
+  <img   src="https://github-readme-stats.vercel.app/api?username=souzadiegocl&show_icons=true&locale=en" alt="souzadiegocl" />
+</p>
+<hr>
 
- 
-📫 How to reach me **souzadiegocl@gmail.com**
+📫 How to reach me souzadiegocl@gmail.com
+
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
