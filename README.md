@@ -2,8 +2,8 @@
 
 <h3 align="center">Brazilian DEV 👨‍💻</h3>
 <p align="center">
-  <img width="300" src="https://github-readme-stats.vercel.app/api/top-langs?username=souzadiegocl&show_icons=true&locale=en&layout=compact" alt="souzadiegocl" />
-  <img  width="400" src="https://github-readme-stats.vercel.app/api?username=souzadiegocl&show_icons=true&locale=en" alt="souzadiegocl" />
+<img height="180em"   align="center" src="https://github-readme-stats.vercel.app/api?username=SouzaDiegoCl&theme=react&show_icons=true"/>
+  <img height="180em"  align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SouzaDiegoCl&layout=compact&langs_count=7&theme=react"/>
 </p>
 <hr/>
 
@@ -13,6 +13,7 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
+  
 <a href="https://linkedin.com/in/diegosouzaperfil" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="diego souza" height="30" width="40" /></a>
 <a href="https://instagram.com/s0uza_diego" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="s0uza_diego" height="30" width="40" /></a>
 </p>
