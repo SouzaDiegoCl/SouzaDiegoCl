@@ -3,8 +3,8 @@
 <h3 align="center">Brazilian DEV 👨‍💻</h3>
 <p align="center">
 <img height="180em"   align="center" src="https://github-readme-stats.vercel.app/api?username=SouzaDiegoCl&theme=react&show_icons=true"/>
-  <img height="180em"  align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SouzaDiegoCl&layout=compact&langs_count=7&theme=react"/>
-</p>
+<!--   <img height="180em"  align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SouzaDiegoCl&layout=compact&langs_count=7&theme=react"/>
+ --></p>
 <div align="center">
 
   📫 How to reach me: souzadiegocl@gmail.com
