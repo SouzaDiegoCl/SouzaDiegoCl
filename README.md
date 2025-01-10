@@ -1,5 +1,7 @@
 <h1 align="center">Hi 👋, I'm Diego Baltazar de Souza</h1>
 
+
+<!--
 <h2 align="center">Brazilian DEV 👨‍💻</h2>
 <p align="center">
 <!-- <img height="180em"   align="center" src="https://github-readme-stats.vercel.app/api?username=SouzaDiegoCl&theme=react&show_icons=true"/> -->
